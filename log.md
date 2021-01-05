@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: June 5, Tuesday
+### Day 1: June 5, 2021 | Tuesday
 
 **Today's Progress**: I'm reading the chapter 5 of HTML & CSS book by Jon Duckett 
 
