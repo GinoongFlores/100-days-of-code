@@ -18,6 +18,11 @@
 
 **Thoughts** I just recall the history of HTML the div tags and learn the escape characters.
 
+### Day 4: June 8, 2021 | Friday
+
+**Today's Progress**: I'm Continuing reading 8-9 of HTML & CSS book by Jon Duckett 
+
+**Thoughts** I finish reading the HTML basics and Starting to learn CSS. 
 
 **Link(s) to work**
 
