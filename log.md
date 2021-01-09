@@ -24,5 +24,11 @@
 
 **Thoughts** I finish reading the HTML basics and Starting to learn CSS. 
 
+### Day 5: June 9, 2021 | Saturday
+
+**Today's Progress**: I'm Reading Chaper 10 of HTML & CSS book by Jon Duckett 
+
+**Thoughts** I started to recall the CSS styles like font-family and colors that I learned before. 
+
 **Link(s) to work**
 
