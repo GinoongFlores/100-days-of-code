@@ -30,5 +30,11 @@
 
 **Thoughts** I started to recall the CSS styles like font-family and colors that I learned before. 
 
+### Day 6: June 10, 2021 | Sunday
+
+**Today's Progress**: I'm Reading Chaper 11-12 of HTML & CSS book by Jon Duckett 
+
+**Thoughts** I started to recall the web colors, different typeface and its sizes. 
+
 **Link(s) to work**
 
