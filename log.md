@@ -8,7 +8,7 @@
 
 ### Day 2: June 6, 2021 | Wednesday
 
-**Today's Progress**: I'm reading the chapter 6-7 of HTML & CSS book by Jon Duckett 
+**Today's Progress**: I'm reading the chapters 6-7 of HTML & CSS book by Jon Duckett 
 
 **Thoughts** I just recall what I learned before in making HTML tables and forms. 
 
@@ -26,15 +26,21 @@
 
 ### Day 5: June 9, 2021 | Saturday
 
-**Today's Progress**: I'm Reading Chaper 10 of HTML & CSS book by Jon Duckett 
+**Today's Progress**: I'm Reading Chapter 10 of HTML & CSS book by Jon Duckett 
 
 **Thoughts** I started to recall the CSS styles like font-family and colors that I learned before. 
 
 ### Day 6: June 10, 2021 | Sunday
 
-**Today's Progress**: I'm Reading Chaper 11-12 of HTML & CSS book by Jon Duckett 
+**Today's Progress**: I'm Reading Chapters 11-12 of HTML & CSS book by Jon Duckett 
 
 **Thoughts** I started to recall the web colors, different typeface and its sizes. 
+
+### Day 7: June 11, 2021 | Sunday
+
+**Today's Progress**: I'm Continuing reading Chapters 12 of HTML & CSS book by Jon Duckett 
+
+**Thoughts**: I recall the CSS style in terms of using text. 
 
 **Link(s) to work**
 
