@@ -36,11 +36,17 @@
 
 **Thoughts** I started to recall the web colors, different typeface and its sizes. 
 
-### Day 7: June 11, 2021 | Sunday
+### Day 7: June 12, 2021 | Sunday
 
 **Today's Progress**: I'm Continuing reading Chapters 12 of HTML & CSS book by Jon Duckett 
 
 **Thoughts**: I recall the CSS style in terms of using text. 
+
+### Day 8: June 13, 2021 | Sunday
+
+**Today's Progress**: I'm Continuing reading Chapters 12-13 of HTML & CSS book by Jon Duckett 
+
+**Thoughts**: I'm learning CSS boxes and I recall the min-width, max width, min-height and max-height. 
 
 **Link(s) to work**
 
