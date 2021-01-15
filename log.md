@@ -48,5 +48,11 @@
 
 **Thoughts**: I'm learning CSS boxes and I recall the min-width, max width, min-height and max-height. 
 
+### Day 9: June 15, 2021 | Sunday
+
+**Today's Progress**: I'm Continuing reading Chapters 13 of HTML & CSS book by Jon Duckett 
+
+**Thoughts**: I'm learning how size of boxes works, I feel tired in this day as I have so many things to do in my college assignments but I still keep on going. 
+
 **Link(s) to work**
 
