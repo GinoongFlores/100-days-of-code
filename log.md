@@ -58,5 +58,11 @@
 
 **Thoughts**: Working on Java project that concatenates three names in every two-name possible combinations. 
 
+### Day 11: June 21, 2021 | Thurday
+
+**Today's Progress**: Continuing Reading the HTML & CSS book Chapter 14 
+
+**Thoughts**: I didn't do the challenge in 4 days as I'm getting busy with my school assignments. But today I continue to do the challenge and learning boxes in HTML & CSS. 
+
 **Link(s) to work**
 
