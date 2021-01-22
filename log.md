@@ -60,9 +60,16 @@
 
 ### Day 11: June 21, 2021 | Thurday
 
-**Today's Progress**: Continuing Reading the HTML & CSS book Chapter 14 
+**Today's Progress**: Continuing Reading the HTML & CSS book Chapter 13 by Jon Duckett
 
 **Thoughts**: I didn't do the challenge in 4 days as I'm getting busy with my school assignments. But today I continue to do the challenge and learning boxes in HTML & CSS. 
+
+### Day 12: June 22, 2021 | Thurday
+
+**Today's Progress**: Reading the HTML & CSS book Chapter 14 by Jon Duckett
+
+**Thoughts**: In this chapter I learn how to style lists and forms using CSS.
+
 
 **Link(s) to work**
 
