@@ -66,7 +66,12 @@
 
 ### Day 12: June 22, 2021 | Thurday
 
-**Today's Progress**: Reading the HTML & CSS book Chapter 14 by Jon Duckett
+**Today's Progress**: Reading the HTML & CSS book Chapter 14 by Jon Duckett. 
+
+### Day 13: June 24, 2021 | Thurday
+
+**Today's Progress**: Finish reading Chapter 14 of the book HTML & CSS by Jon Duckett Heading to Chapter 15 fortunately tomorrow. 
+
 
 **Thoughts**: In this chapter I learn how to style lists and forms using CSS.
 
