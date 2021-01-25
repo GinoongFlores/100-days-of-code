@@ -64,16 +64,21 @@
 
 **Thoughts**: I didn't do the challenge in 4 days as I'm getting busy with my school assignments. But today I continue to do the challenge and learning boxes in HTML & CSS. 
 
-### Day 12: June 22, 2021 | Thurday
+### Day 12: June 22, 2021 | Friday
 
 **Today's Progress**: Reading the HTML & CSS book Chapter 14 by Jon Duckett. 
 
-### Day 13: June 24, 2021 | Thurday
+### Day 13: June 24, 2021 | Sunday
 
 **Today's Progress**: Finish reading Chapter 14 of the book HTML & CSS by Jon Duckett Heading to Chapter 15 fortunately tomorrow. 
 
-
 **Thoughts**: In this chapter I learn how to style lists and forms using CSS.
+
+### Day 14: June 25, 2021 | Monday
+
+**Today's Progress**: Working on a Java 2d array project this day.
+
+**Thoughts**: I'm still figuring out how 2d array works in getting user input. 
 
 
 **Link(s) to work**
