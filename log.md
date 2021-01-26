@@ -80,6 +80,12 @@
 
 **Thoughts**: I'm still figuring out how 2d array works in getting user input. 
 
+### Day 15: June 26, 2021 | Tuesday
+
+**Today's Progress**: This day I read the Chapter 15 of the book HTML and CSS by Jon Duckett two more chapters left. 
+
+**Thoughts**: I'm still figuring out how 2d array works in getting user input. 
+
 
 **Link(s) to work**
 
