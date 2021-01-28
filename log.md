@@ -84,13 +84,19 @@
 
 **Today's Progress**: This day I read the Chapter 15 of the book HTML and CSS by Jon Duckett two more chapters left. 
 
-**Thoughts**: I'm still figuring out how 2d array works in getting user input. 
+**Thoughts**: I still have two more chapters left. 
 
 ### Day 16: June 27, 2021 | Wednesday
 
 **Today's Progress**: Continuing reading chapter 15 of the book HTML and CSS by Jon Duckett. I started to learn on how to control the html elements and it's posistion. 
 
-**Thoughts**: I'm still figuring out how 2d array works in getting user input. 
+**Thoughts**: I started to control the html elments.
+
+### Day 17: June 28, 2021 | Thursday
+
+**Today's Progress**: Continuing reading chapter 15 of the book HTML and CSS by Jon Duckett and learning the fixed and liquid layouts of a webpage. 
+
+**Thoughts**: I saw how fixed and liquid layouts differ in each other. 
 
 
 **Link(s) to work**
