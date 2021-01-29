@@ -98,6 +98,12 @@
 
 **Thoughts**: I saw how fixed and liquid layouts differ in each other. 
 
+### Day 18: June 29, 2021 | Friday
+
+**Today's Progress**: Finish reading chapter 15 of the book HTML and CSS by Jon Duckett. 
+
+**Thoughts**: I just finished the chapter 15 of the book. I learned how to create a fixed and liquid webpages and started to learn the 960.gs grid CSS framework. 
+
 
 **Link(s) to work**
 
