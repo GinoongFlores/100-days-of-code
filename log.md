@@ -104,6 +104,19 @@
 
 **Thoughts**: I just finished the chapter 15 of the book. I learned how to create a fixed and liquid webpages and started to learn the 960.gs grid CSS framework. 
 
+### Day 19: June 30, 2021 | Saturday
+
+**Today's Progress**: I created a webpage using the 960.gs grid css framework based on the book HTML and CSS by Jon Duckett. 
+
+**Thoughts**: It took me one hour and a half to finish the web page. As I encounter some typos in my code and I read the code again in the book and change my code to make it better. 
 
 **Link(s) to work**
+https://webpage-sample.netlify.app/
+
+### Day 19: June 30, 2021 | Saturday
+
+**Today's Progress**: I created a webpage using the 960.gs grid css framework based on the book HTML and CSS by Jon Duckett. 
+
+**Thoughts**: It took me one hour and a half to finish the web page. As I encounter some typos in my code and I read the code again in the book and change my code to make it better. 
+
 
