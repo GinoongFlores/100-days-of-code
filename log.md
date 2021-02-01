@@ -113,10 +113,9 @@
 **Link(s) to work**
 https://webpage-sample.netlify.app/
 
-### Day 19: June 30, 2021 | Saturday
+### Day 20: Feb 1, 2021 | Monday
 
-**Today's Progress**: I created a webpage using the 960.gs grid css framework based on the book HTML and CSS by Jon Duckett. 
+**Today's Progress**: Finished reading chapter 15 and now reading chapter 16 of the book HTML and CSS by Jon Duckett. 
 
-**Thoughts**: It took me one hour and a half to finish the web page. As I encounter some typos in my code and I read the code again in the book and change my code to make it better. 
-
+**Thoughts**: In, this day I just recall what I learned before in creating a background image and style it using different background properties. 
 
