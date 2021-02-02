@@ -121,7 +121,7 @@ https://webpage-sample.netlify.app/
 
 ### Day 21: Feb 2, 2021 | Tuesday
 
-**Today's Progress**: Reading Chapter 16 of the book HTML and CSS by Jon Dukett and I just recall what I learned before in terms of positioning images in CSS 
+**Today's Progress**: Reading Chapter 16 of the book HTML and CSS by Jon Dukett and I just recall what I learned before in terms of controlling images in CSS 
 
 **Thoughts**: I wrote some code based on book where it display images horizontally and I will add some media queries to make it responsive. 
 
