@@ -125,3 +125,12 @@ https://webpage-sample.netlify.app/
 
 **Thoughts**: I wrote some code based on book where it display images horizontally and I will add some media queries to make it responsive. 
 
+### Day 22: Feb 3, 2021 | Wendesday
+
+**Today's Progress**: Finished reading chapter 16 of the book HTML and CSS by Jon Duckett and created a website based on the chapter 16 which talked about images. Adn I some media queries to make it more presentable in all devices. 
+
+**Thoughts**: I'm still figuring out what is the best breakpoint to use in media queries and I started to learn the difference between max-width and min-width in targeting screen sizes.  
+
+**Link(s) to work**
+https://another-webpage-sample.netlify.app/
+
