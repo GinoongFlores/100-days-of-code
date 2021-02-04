@@ -134,3 +134,9 @@ https://webpage-sample.netlify.app/
 **Link(s) to work**
 https://another-webpage-sample.netlify.app/
 
+### Day 23: Feb 4, 2021 | Thursday
+
+**Today's Progress**: Now, reading chapter 17 of the book HTML and CSS by Jon Duckett. And I just know the HTML 5 elements that being used in modern webpages.  
+
+**Thoughts**: Finally I am going to finish this book as chapter 17 is the final chapter. And I will create another simple webpage based on chapter 17 to recognize what I learned  throughout the book. 
+
