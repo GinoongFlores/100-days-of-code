@@ -140,3 +140,10 @@ https://another-webpage-sample.netlify.app/
 
 **Thoughts**: Finally I am going to finish this book as chapter 17 is the final chapter. And I will create another simple webpage based on chapter 17 to recognize what I learned  throughout the book. 
 
+### Day 24: Feb 5, 2021 | Friday
+
+**Today's Progress**: Continuing reading chapter 17 of the book HTML and CSS by Jon Duckett. And started to create a website that is based on the chapter which talks about the implementation of the HTML5 elements on webpage. 
+
+**Thoughts**: I'm still coding on my simple webpage that is based on chapter 17 and I did not actually copy all the codes from the example, I just change the theme, some styles, and wondering to put some media queries after I finished it.  
+
+
