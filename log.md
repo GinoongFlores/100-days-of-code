@@ -146,4 +146,10 @@ https://another-webpage-sample.netlify.app/
 
 **Thoughts**: I'm still coding on my simple webpage that is based on chapter 17 and I did not actually copy all the codes from the example, I just change the theme, some styles, and wondering to put some media queries after I finished it.  
 
+### Day 25: Feb 6, 2021 | Saturday
+
+**Today's Progress**: In, this day I code my simple webpage based on chapter 17 of the book HTML & CSS by Jon Duckett.
+
+**Thoughts**: I'm still understanding the code from the chapter so that I know what is the structure of the webpage that I build. And hopefully tommorrow I will add some media queries so that I can view it properly on my phone. 
+
 
