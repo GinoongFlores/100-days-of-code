@@ -152,4 +152,10 @@ https://another-webpage-sample.netlify.app/
 
 **Thoughts**: I'm still understanding the code from the chapter so that I know what is the structure of the webpage that I build. And hopefully tommorrow I will add some media queries so that I can view it properly on my phone. 
 
+### Day 26: Feb 7, 2021 | Sunday
+
+**Today's Progress**: Still coding for my simple webpage and trying to fix some errors in my media querries 
+
+**Thoughts**: I feel frustrated this day as I overcome some errors in my media querries like it doesn't fit properly when I resize it and I'm still figuring it out tommorrow to fix it and deploy my webpage on github and netlify. 
+
 
