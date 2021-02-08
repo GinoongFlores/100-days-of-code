@@ -158,4 +158,13 @@ https://another-webpage-sample.netlify.app/
 
 **Thoughts**: I feel frustrated this day as I overcome some errors in my media querries like it doesn't fit properly when I resize it and I'm still figuring it out tommorrow to fix it and deploy my webpage on github and netlify. 
 
+### Day 27: Feb 8, 2021 | Sunday
+
+**Today's Progress**: Finishing my simple webpage and I fix some media queries into it. 
+
+**Thoughts**: Well, I started to fix some issues with my media queries and testing my simple webpage in my mobile phone. 
+
+**Link(s) to work**
+https://chapter17-webpage.netlify.app/
+
 
