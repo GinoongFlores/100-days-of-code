@@ -158,7 +158,7 @@ https://another-webpage-sample.netlify.app/
 
 **Thoughts**: I feel frustrated this day as I overcome some errors in my media querries like it doesn't fit properly when I resize it and I'm still figuring it out tommorrow to fix it and deploy my webpage on github and netlify. 
 
-### Day 27: Feb 8, 2021 | Sunday
+### Day 27: Feb 8, 2021 | Monday
 
 **Today's Progress**: Finishing my simple webpage and I fix some media queries into it. 
 
@@ -166,5 +166,18 @@ https://another-webpage-sample.netlify.app/
 
 **Link(s) to work**
 https://chapter17-webpage.netlify.app/
+
+### Day 28: Feb 9, 2021 | Tuesday
+
+**Today's Progress**: Reading Chapter 18 titles process and design from the book HTML and CSS by Jon Duckett
+
+**Thoughts**: This day, Learned the importance of making a website approachable to users need. And How should a website look and become valuable to its visitors. 
+
+### Day 29: Feb 10, 2021 | Wednesday
+
+**Today's Progress**: Created a HTML table w/ CSS that covers my college schedule. 
+
+**Thoughts**: Forgot some things to make a HTML table but thanks to internet I find some of my answers in my problem. And I realize that you don't need to memorize everything you just need to find a right way to find your own answers. 
+
 
 
