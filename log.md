@@ -179,5 +179,16 @@ https://chapter17-webpage.netlify.app/
 
 **Thoughts**: Forgot some things to make a HTML table but thanks to internet I find some of my answers in my problem. And I realize that you don't need to memorize everything you just need to find a right way to find your own answers. 
 
+### Day 30: Feb 11, 2021 | thursday
+
+**Today's Progress**: Finished my HTML table w/ CSS that covers my college schedules and with some media queries 
+
+**Thoughts**: I struggle to fit my table layout in media queries so I try to see some youtube tutorials to help me get it. And finally I made it to be fit and accessible in my phone.
+
+**link(s) to work** 
+https://table-schedule.netlify.app/
+
+
+
 
 
