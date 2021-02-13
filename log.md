@@ -188,11 +188,19 @@ https://chapter17-webpage.netlify.app/
 **link(s) to work** 
 https://table-schedule.netlify.app/
 
-### Day 31: Feb 12, 2021 | thursday
+### Day 31: Feb 12, 2021 | Friday 
 
 **Today's Progress**: Finished reading chapter 18 and heading to chapter 19 of the book HTML and CSS by Jon Duckett
 
 **Thoughts**: In this day, I learned how website should be made for the web user's. And Learning how to target the specific audience of the website. 
+
+### Day 32: Feb 13, 2021 | Saturday 
+
+**Today's Progress**: Continuing reading chapter 19 of the book HTML and CSS by Jon Duckett
+
+**Thoughts**: I learned in this chapter that SEO is so important to make the website on top of others. This chapter helps me to know different ways to implement SEO and to understand its capabilities. 
+
+
 
 
 
