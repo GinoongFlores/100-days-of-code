@@ -200,6 +200,12 @@ https://table-schedule.netlify.app/
 
 **Thoughts**: I learned in this chapter that SEO is so important to make the website on top of others. This chapter helps me to know different ways to implement SEO and to understand its capabilities. 
 
+### Day 33: Feb 14, 2021 | Sunday 
+
+**Today's Progress**: Finally, finished chapter 19 which is the last chapter of the book HTML and CSS by Jon duckett. 
+
+**Thoughts**: I feel happy in this day as I finished reading all the chapters of the book. And now I'm going to exlpore the different aspects of web development through the internet. 
+
 
 
 
