@@ -206,6 +206,15 @@ https://table-schedule.netlify.app/
 
 **Thoughts**: I feel happy in this day as I finished reading all the chapters of the book. And now I'm going to exlpore the different aspects of web development through the internet. 
 
+### Day 34: Feb 15, 2021 | Monday  
+
+**Today's Progress**: Upgrading my personal website like adding a definition in my alt text and added a schedule table to it. 
+
+**Thoughts**: I didn't now what is the use of alt text in image before but after I read the HTML and CSS book and searching on the internet. I know the uses of it and also adding google analytics to my personal website. 
+
+**link(s) to work** 
+https://www.ginoongflores.me/
+
 
 
 
