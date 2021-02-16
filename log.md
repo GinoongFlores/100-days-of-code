@@ -215,6 +215,16 @@ https://table-schedule.netlify.app/
 **link(s) to work** 
 https://www.ginoongflores.me/
 
+### Day 35: Feb 16, 2021 | Tuesday  
+
+**Today's Progress**: Learning CSS Grid and Flexbox 
+
+**Thoughts**: In this day, I'm currently learning CSS grid and Flexbox. Hopefully I can distinguised the difference between the both of them. So that I can use them in different respective ways. 
+
+**link(s) to work** 
+https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
+
+
 
 
 
