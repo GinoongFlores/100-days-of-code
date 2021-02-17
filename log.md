@@ -224,6 +224,15 @@ https://www.ginoongflores.me/
 **link(s) to work** 
 https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
+### Day 36: Feb 17, 2021 | Wednesday
+
+**Today's Progress**: Learned CSS Flexbox
+
+**Thoughts**: In this day, I learned how to use CSS flexbox. I learned its fundamentals through some tutorials on youtube and hopefully I must able to apply them on my own project in the near future. 
+
+**link(s) to work** 
+https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
+
 
 
 
