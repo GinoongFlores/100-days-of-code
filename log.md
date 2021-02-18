@@ -233,6 +233,15 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 **link(s) to work** 
 https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
+### Day 37: Feb 18, 2021 | Thursday
+
+**Today's Progress**: Started in freecodecamp.org to deepen my learning in responsive web design 
+
+**Thoughts**: I think that establishing a strong foundation in web development can help me to understand it clearly. That is why take the training in freecodecamp.org that helps everyone to learn web development. 
+
+**link(s) to work** 
+https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
+
 
 
 
