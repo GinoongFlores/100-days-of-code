@@ -242,6 +242,14 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 **link(s) to work** 
 https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
+### Day 38: Feb 21, 2021 | Sunday
+
+**Today's Progress**: 24/28 of the course in responsive design in freecodecamp.org. 
+
+**Thoughts**: I learn again the basic of HTML and HTML 5 and its quite easy to finish some of the . 
+
+
+
 
 
 
