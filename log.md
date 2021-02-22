@@ -248,6 +248,12 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Thoughts**: I learn again the basic of HTML and HTML 5 and its quite easy to finish some of the . 
 
+### Day 39: Feb 22, 2021 | Monday
+
+**Today's Progress**: Finished 28/28 of Basic HTML and HTML 5 and 13/44 in basic CSS. 
+
+**Thoughts**: In this course is quite easy for me as I know the fundamentals of HTML and CSS. 
+
 
 
 
