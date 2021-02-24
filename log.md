@@ -254,6 +254,12 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Thoughts**: In this course is quite easy for me as I know the fundamentals of HTML and CSS. 
 
+### Day 40: Feb 24, 2021 | Wednesday
+
+**Today's Progress**: 27/44 of Basic CSS course at freecodecamp.org
+
+**Thoughts**: I just reminisce the things I learned before in CSS that is why is it easy for me to answer some tasks in course. 
+
 
 
 
