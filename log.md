@@ -260,6 +260,15 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Thoughts**: I just reminisce the things I learned before in CSS that is why is it easy for me to answer some tasks in course. 
 
+### Day 41: Feb 25, 2021 | Thursday
+
+**Today's Progress**: 35/44 of Basic CSS course at freecodecamp.org
+
+**Thoughts**: Today, the most thing I learned along this course is the mixing of the colors in CSS and manipulating them using the hexadecimal values and RGB values. 
+
+
+
+
 
 
 
