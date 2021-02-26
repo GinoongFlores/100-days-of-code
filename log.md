@@ -270,7 +270,7 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Today's Progress**: 44/44 of Basic CSS course at freecodecamp.org
 
-**Thoughts**: Finally finish the basic CSS at responsive desigin course in freecodecamp.org. And it's a little bit easy as most of the tasks is beginner's friendly, although I'm at intermediate level now but it's good to read how the intructions are clear and concise. 
+**Thoughts**: Finally finished the basic CSS at responsive desigin course in freecodecamp.org. And it's a little bit easy as most of the tasks is beginner's friendly, although I'm at intermediate level now but it's good to read how the intructions are clear and concise. 
 
 
 
