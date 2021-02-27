@@ -272,6 +272,13 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Thoughts**: Finally finished the basic CSS at responsive desigin course in freecodecamp.org. And it's a little bit easy as most of the tasks is beginner's friendly, although I'm at intermediate level now but it's good to read how the intructions are clear and concise. 
 
+### Day 43: Feb 27, 2021 | Saturday
+
+**Today's Progress**: 20/52 Applied Visual Design in freecodecamp.org
+
+**Thoughts**: Today I'm at the Applied Visual Design course at freecodecamp.org and I learn a lot from these course through CSS box-model and CSS positioning, and hoping to learn more. 
+
+
 
 
 
