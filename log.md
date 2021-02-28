@@ -278,7 +278,11 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Thoughts**: Today I'm at the Applied Visual Design course at freecodecamp.org and I learn a lot from these course through CSS box-model and CSS positioning, and hoping to learn more. 
 
+### Day 44: Feb 28, 2021 | Sunday
 
+**Today's Progress**: 26/52 Applied Visual Design in freecodecamp.org
+
+**Thoughts**: Feel tired this day because I think I didn't sleep well in these past few days. But as long as I code for an 1hr or half of it and as I understand what I'm learning I'm happy with it. 
 
 
 
