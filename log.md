@@ -284,6 +284,18 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Thoughts**: Feel tired this day because I think I didn't sleep well in these past few days. But as long as I code for an 1hr or half of it and as I understand what I'm learning I'm happy with it. 
 
+### Day 45: March 1, 2021 | Monday
+
+**Today's Progress**: 30/52 Applied Visual Design in freecodecamp.org
+
+**Thoughts**: Learned how to manipulate and use colors like the tertiary, secondary, and compelementary colors. 
+
+### Day 46: March 2, 2021 | Tuesday
+
+**Today's Progress**: 38/52 Applied Visual Design in freecodecamp.org
+
+**Thoughts**: Learned how to transform an element using the different property value of transform which I Learned for now is the scale and skew methods.
+
 
 
 
