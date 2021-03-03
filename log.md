@@ -296,13 +296,8 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Thoughts**: Learned how to transform an element using the different property value of transform which I Learned for now is the scale and skew methods.
 
+### Day 47: March 3, 2021 | Wednesday
 
+**Today's Progress**: 43/52 Applied Visual Design in freecodecamp.org
 
-
-
-
-
-
-
-
-
+**Thoughts**: In this day, I learned how to move elements and animate them using keyframes. 
