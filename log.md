@@ -301,3 +301,15 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 **Today's Progress**: 43/52 Applied Visual Design in freecodecamp.org
 
 **Thoughts**: In this day, I learned how to move elements and animate them using keyframes. 
+
+### Day 48: March 6, 2021 | Saturday
+
+**Today's Progress**: 48/52 Applied Visual Design in freecodecamp.org
+
+**Thoughts**: In this day, I learned how to move elements and animate them using keyframes. 
+
+### Day 49: March 7, 2021 | Sunday
+
+**Today's Progress**: 52/52 Applied Visual Design in freecodecamp.org & 2/22 in Applied Accesibility 
+
+**Thoughts**: In this day, I finished the Applied Visual Design course and started in Applied Accessibility 
