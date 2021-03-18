@@ -313,3 +313,19 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 **Today's Progress**: 52/52 Applied Visual Design in freecodecamp.org & 2/22 in Applied Accesibility 
 
 **Thoughts**: In this day, I finished the Applied Visual Design course and started in Applied Accessibility 
+
+### Day 50: March 11, 2021 | Thursday
+
+**Today's Progress**: 11/22 in Applied Accesibility 
+
+**Thoughts**: I forgot to record this one on github but thank's to my tweet on twitter that reminds me on this.
+
+### Day 51: March 18, 2021 | Thursday
+
+**Today's Progress**: 22/22 in Applied Accesibility 
+
+**Thoughts**: I only have some time to code this day because I had been busy in my college assignments in these past few days. And now I hope, I can start and continue the next course. 
+
+
+
+
