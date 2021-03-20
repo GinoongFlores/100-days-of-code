@@ -316,15 +316,21 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 ### Day 50: March 11, 2021 | Thursday
 
-**Today's Progress**: 11/22 in Applied Accesibility 
+**Today's Progress**: 11/22 Applied Accesibility 
 
 **Thoughts**: I forgot to record this one on github but thank's to my tweet on twitter that reminds me on this.
 
 ### Day 51: March 18, 2021 | Thursday
 
-**Today's Progress**: 22/22 in Applied Accesibility 
+**Today's Progress**: 22/22 Applied Accesibility 
 
 **Thoughts**: I only have some time to code this day because I had been busy in my college assignments in these past few days. And now I hope, I can start and continue the next course. 
+
+### Day 52: March 20, 2021 | Saturday
+
+**Today's Progress**: 4/4 Responsive Web Design Principles course at freecodecamp.org
+
+**Thoughts**: I suppose to go to the next course which is flexbox but feeling tired today because of my assignment but I finished the Responsive Web Design Principles course. 
 
 
 
