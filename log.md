@@ -332,6 +332,12 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Thoughts**: I suppose to go to the next course which is flexbox but feeling tired today because of my assignment but I finished the Responsive Web Design Principles course. 
 
+### Day 53: March 21, 2021 | Sunday
+
+**Today's Progress**: 10/17 Flexbox course at freecodecamp.org 
+
+**Thoughts**: Today I learned to manipulate HTML elements using CSS flexbox with the help of flex properties and learned the justify-content and align-items properties. 
+
 
 
 
