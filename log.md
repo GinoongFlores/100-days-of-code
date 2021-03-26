@@ -338,6 +338,12 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Thoughts**: Today I learned to manipulate HTML elements using CSS flexbox with the help of flex properties and learned the justify-content and align-items properties. 
 
+### Day 54: March 26, 2021 | Friday
+
+**Today's Progress**: 17/17 Flexbox course at freecodecamp.org 
+
+**Thoughts**: I feel unmotivated to finish the course in the last few days but today I realize that I need to keep going from what I started. 
+
 
 
 
