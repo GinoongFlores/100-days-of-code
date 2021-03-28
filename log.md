@@ -344,6 +344,12 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Thoughts**: I feel unmotivated to finish the course in the last few days but today I realize that I need to keep going from what I started. 
 
+### Day 55: March 27, 2021 | Sunday
+
+**Today's Progress**: 10/22 CSS Grids course at freecodecamp.org 
+
+**Thoughts**: In this day, I learned how to use CSS grids and its different properties.
+
 
 
 
