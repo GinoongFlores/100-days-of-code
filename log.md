@@ -350,5 +350,10 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Thoughts**: In this day, I learned how to use CSS grids and its different properties.
 
+### Day 56: March 29, 2021 | Monday
+
+**Today's Progress**: 16/22 CSS Grids course at freecodecamp.org 
+
+**Thoughts**: Today I learned how grid-area template works and it's properties. And I'm stil confuse in different properties on how to Align an item vertically and horizontall because aligning an item in CSS grids has many different variety of properties depending on how you want to use it on a website. 
 
 
