@@ -356,15 +356,27 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Thoughts**: Today I learned how grid-area template works and it's properties. And I'm stil confuse in different properties on how to Align an item vertically and horizontall because aligning an item in CSS grids has many different variety of properties depending on how you want to use it on a website. 
 
-### Day 57: March 31 , 2021 | Sunday
+### Day 57: March 31 , 2021 | Wednesday
 
 **Today's Progress**: 22/22 CSS Grids course at freecodecamp.org 
 
 **Thoughts**: Finally I finished the CSS grids course at freecodecamp.org. And I'm trying to apply what I learned in this course through building projects related to CSS grids. 
 
-### Day 58: March 31 , 2021 | Monday
+### Day 58: April 1 , 2021 | Thursday
 
 **Today's Progress**: Working on my Tribute Page at freecodecamp.org
+
+**Thoughts**: Freecodecamp.org gives example and objectives on how to build a tribute page. And I hope I can easily figure it out and build a tribute page for Dr. Jose Rizal the national hero of the Philippines. 
+
+### Day 59: April 2, 2021 | Friday
+
+**Today's Progress**: Still Working on my Tribute Page at freecodecamp.org
+
+**Thoughts**: Freecodecamp.org gives example and objectives on how to build a tribute page. And I hope I can easily figure it out and build a tribute page for Dr. Jose Rizal the national hero of the Philippines. 
+
+### Day 60: April 3, 2021 | Saturday
+
+**Today's Progress**: Still Working on my Tribute Page at freecodecamp.org
 
 **Thoughts**: Freecodecamp.org gives example and objectives on how to build a tribute page. And I hope I can easily figure it out and build a tribute page for Dr. Jose Rizal the national hero of the Philippines. 
 
