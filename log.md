@@ -380,6 +380,11 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Thoughts**: Freecodecamp.org gives example and objectives on how to build a tribute page. And I hope I can easily figure it out and build a tribute page for Dr. Jose Rizal the national hero of the Philippines. 
 
+### Day 61: April 4, 2021 | Sunday
+
+**Today's Progress**: Finished Working on my Tribute Page at freecodecamp.org and I'm going to submit it tomorrow. 
+
+**Thoughts**: I've been coding through this night on my tribute page for Dr. Jose Rizal. And I thought it would beasy as I learn some basics but I've been struggling on some styling. Therefore, I look some codes on the example to understand it well and how it works. 
 
 
 
