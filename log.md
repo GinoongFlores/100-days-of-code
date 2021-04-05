@@ -386,6 +386,11 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Thoughts**: I've been coding through this night on my tribute page for Dr. Jose Rizal. And I thought it would beasy as I learn some basics but I've been struggling on some styling. Therefore, I look some codes on the example to understand it well and how it works. 
 
+### Day 62: April 5, 2021 | Monday 
+
+**Today's Progress**: Submitted my tribute page to freecodecamp.org and going to the 2nd task which is building a survey form. 
+
+**Thoughts**: Just newly started my survey form and I hope I can code it tomorrow even I get distracted by many things on the internet. 
 
 
 
