@@ -392,5 +392,8 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Thoughts**: Just newly started my survey form and I hope I can code it tomorrow even I get distracted by many things on the internet. 
 
+### Day 63: April 6, 2021 | Tuesday 
 
+**Today's Progress**: Still working on my survery form which talks about what kind of job we want in the tech industry
 
+**Thoughts**: I just started to style it with css and honestly its so overhelming knowing that your doing it on your own like without the need of tutorial but thankfully I can search some of my problems in google. 
