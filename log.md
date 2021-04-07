@@ -397,3 +397,9 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 **Today's Progress**: Still working on my survery form which talks about what kind of job we want in the tech industry
 
 **Thoughts**: I just started to style it with css and honestly its so overhelming knowing that your doing it on your own like without the need of tutorial but thankfully I can search some of my problems in google. 
+
+### Day 64: April 7, 2021 | Wednesday
+
+**Today's Progress**: Finished my survey form for the responsive web design projects at freecodecamp.org
+
+**Thoughts**: Finally I finished my survey form and I launch it using netlify. And I've been confused in using max-width and min-width in media queries in this survery form because it's a long time I didn't used media queries. 
