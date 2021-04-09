@@ -403,3 +403,17 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 **Today's Progress**: Finished my survey form for the responsive web design projects at freecodecamp.org
 
 **Thoughts**: Finally I finished my survey form and I launch it using netlify. And I've been confused in using max-width and min-width in media queries in this survery form because it's a long time I didn't used media queries. 
+
+### Day 65: April 8, 2021 | Thursday
+
+**Today's Progress**: Now, I started to code my landing page for the responsive web design project at freecodecamp.org
+
+**Thoughts**: 
+
+### Day 66: April 9, 2021 | Friday
+
+**Today's Progress**: Still working on my landing page about creating my own guitar product
+
+**Thoughts**: 
+
+
