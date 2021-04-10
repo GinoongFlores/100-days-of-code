@@ -408,12 +408,18 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Today's Progress**: Now, I started to code my landing page for the responsive web design project at freecodecamp.org
 
-**Thoughts**: 
+**Thoughts**: After I finished my survey form it's time for me now to follow the next challenge which is creating a landing page. In this day I started to think on what is the theme of my landing page and started to think about a guitar shop where you can sell guitars and as an example my last name as the brand name that means Flores Guitar. 
 
 ### Day 66: April 9, 2021 | Friday
 
 **Today's Progress**: Still working on my landing page about creating my own guitar product
 
-**Thoughts**: 
+**Thoughts**: Sometimes I feel overhelmed and ended up scrolling through lines of code from my previous works just to get some solutions from it then I watch and read it. But I realized that I need to code no matter what happen so that I can practice myself to learn and write a code. 
+
+### Day 67: April 10, 2021 | Saturday
+
+**Today's Progress**: Still working on my landing page about creating my own guitar product. This day I finished the features and the price section using flexbox.
+
+**Thoughts**: Sometimes it's hard for me to remember all the stuffs in css like centering an element and positioning. That is why most often I google it on to find some answers and often I find some solutions to my problems. And I just wanna say that It felt so good to solve a problem or to create a certain amount of code using your own knowledge without relying to a tutorial and that means I just need to believe in myself that I can do it. 
 
 
