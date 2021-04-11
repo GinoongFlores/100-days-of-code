@@ -422,4 +422,10 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Thoughts**: Sometimes it's hard for me to remember all the stuffs in css like centering an element and positioning. That is why most often I google it on to find some answers and often I find some solutions to my problems. And I just wanna say that It felt so good to solve a problem or to create a certain amount of code using your own knowledge without relying to a tutorial and that means I just need to believe in myself that I can do it. 
 
+### Day 68: April 11, 2021 | Sunday
+
+**Today's Progress**: I added a video from youtube which are one of the requirements page in the landing page and a guitar icon from fontawesome. And fixing some positioning problems in my CSS. 
+
+**Thoughts**: I thought in this day I'm going to finish the landing page but little did I know that I must add an icon and a video on the landing page. Sometimes I feel overwhelmed in fixing some positioning in my CSS file but thank God I can still figured it out and of course some are by the help of the internet. And hopefully tomorrow I can finish my landing page and add some media queries into it. 
+
 
