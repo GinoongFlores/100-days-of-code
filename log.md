@@ -428,4 +428,16 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Thoughts**: I thought in this day I'm going to finish the landing page but little did I know that I must add an icon and a video on the landing page. Sometimes I feel overwhelmed in fixing some positioning in my CSS file but thank God I can still figured it out and of course some are by the help of the internet. And hopefully tomorrow I can finish my landing page and add some media queries into it. 
 
+### Day 69: April 12, 2021 | Monday
+
+**Today's Progress**: In this day, I added media queries to my landing page and fixing new issues on it. 
+
+**Thoughts**: Adding media queries on a website is putting your time to evaluate different types of sizes that must fits on every screen. 
+
+### Day 70: April 13, 2021 | Tuesday
+
+**Today's Progress**: Finally, I finished my landing page in this day. And this time I fix new issues in my CSS positioning along with the media queries.
+
+**Thoughts**: Sometimes I feel frustated when I can't fix some of the issues in CSS but I keep on trying and figuring it out to solve it. 
+
 
