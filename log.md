@@ -440,4 +440,9 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Thoughts**: Sometimes I feel frustated when I can't fix some of the issues in CSS but I keep on trying and figuring it out to solve it. 
 
+### Day 71: April 14, 2021 | Wednesday
+
+**Today's Progress**: This day my next project for the responsive web desgin in freecodecamp.org is to create a technical documentation. And today, I will get some reference from Java oracle to use their documentation as my content in my techincal documentation page. 
+
+**Thoughts**: I didn't code as much today as I'm looking for my content in my technical documentation page and I choose java documentation from Oracle's website.  
 
