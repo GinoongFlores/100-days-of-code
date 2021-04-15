@@ -446,3 +446,9 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Thoughts**: I didn't code as much today as I'm looking for my content in my technical documentation page and I choose java documentation from Oracle's website.  
 
+### Day 72: April 15, 2021 | Thursday
+
+**Today's Progress**: I change the content of my technical documentation to the w3wschools Java introduction and started the introduction section on it. Also I help my bestfriends to code a cash receipt in java language. 
+
+**Thoughts**: I think the w3schools Java introduction are easy to follow and read that why I pick it as the content of my technical documentation and didn't finish some the contents today as I help my bestfriends code a cash receipt system. 
+
