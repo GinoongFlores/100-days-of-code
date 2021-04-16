@@ -452,3 +452,9 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Thoughts**: I think the w3schools Java introduction are easy to follow and read that why I pick it as the content of my technical documentation and didn't finish some the contents today as I help my bestfriends code a cash receipt system. 
 
+### Day 73: April 16, 2021 | Friday 
+
+**Today's Progress**: For now in this day, I didn't work on my techical documentation page in freecodcamp.org. As I work on our casheir receipt system in Java with my bestfriends Philipp and Jason. 
+
+**Thoughts**: We some fix bugs and I comment the whole program because it is the request of our client who owns this project. I hope that this project will be fine to her as we made our best to create it even without enough knowledge in writing files in Java but with perseverance and teamwork we can make it. 
+
