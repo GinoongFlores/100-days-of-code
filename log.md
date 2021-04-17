@@ -458,3 +458,9 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Thoughts**: We some fix bugs and I comment the whole program because it is the request of our client who owns this project. I hope that this project will be fine to her as we made our best to create it even without enough knowledge in writing files in Java but with perseverance and teamwork we can make it. 
 
+### Day 74: April 17, 2021 | Saturday
+
+**Today's Progress**: Fix some issues in our receipt generator/system and filling my contents in techical documentation page in freecodecamp.org. 
+
+**Thoughts**: I only begin this day to fill my contents in my technical page, and I'm documenting Java variables right now. I will also document a total of 16 pieces of content related to the Java programming language. 
+
