@@ -464,3 +464,9 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Thoughts**: I only begin this day to fill my contents in my technical page, and I'm documenting Java variables right now. I will also document a total of 16 pieces of content related to the Java programming language. 
 
+### Day 75: April 18, 2021 | Sunday 
+
+**Today's Progress**: Working on my tecnical documentation page in freecodecamp.org 
+
+**Thoughts**: At this time, I work on creating content in Java Type Casting. And I want to code all of my HTML content before I style them in CSS, but I only style the header, code, and p(paragraph) to easily read the text on the page. 
+
