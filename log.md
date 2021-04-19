@@ -470,3 +470,9 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Thoughts**: At this time, I work on creating content in Java Type Casting. And I want to code all of my HTML content before I style them in CSS, but I only style the header, code, and p(paragraph) to easily read the text on the page. 
 
+### Day 76: April 19, 2021 | Monday
+
+**Today's Progress**: I finished coding the content on my technical documentation page in freecodecamp.org, and I started to style it with CSS. 
+
+**Thoughts**:  It was quite long to code the content on my page as it has 16 categories based on Java introduction in w3wschools. But I shorten some of the categories to finish it immediately, but I don't want to rush because I want the project to be nicely done by myself. 
+
