@@ -476,3 +476,9 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Thoughts**:  It was quite long to code the content on my page as it has 16 categories based on Java introduction in w3wschools. But I shorten some of the categories to finish it immediately, but I don't want to rush because I want the project to be nicely done by myself. 
 
+### Day 77: April 20, 2021 | Tuesday
+
+**Today's Progress**: Styling the content in my technical documentatio page in freecodecamp.org. I style the colors in code using the element span in HTML on the conten of Java for loop to Java Booleans. 
+
+**Thoughts**: Sometimes it's overwhelming to style using span because I have to use many spans in every code that is showed on my technical page. The example given from the freecodecamp was there is no style on every code, but I just wanted my code to be unique, and I think will inherit some style from the example, like putting the links on the right side and stack them. 
+
