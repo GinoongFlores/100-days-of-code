@@ -482,3 +482,9 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Thoughts**: Sometimes it's overwhelming to style using span because I have to use many spans in every code that is showed on my technical page. The example given from the freecodecamp was there is no style on every code, but I just wanted my code to be unique, and I think will inherit some style from the example, like putting the links on the right side and stack them. 
 
+### Day 78: April 21, 2021 | Wednesday
+
+**Today's Progress**: I finished styling every code in my Java technical documentation page, and tomorrow I will style the navbar and all HTML elements. 
+
+**Thoughts**:I feel tired today because I get a lack of sleep earlier. Fortunately, I finished styling every code on my page, and I think it will take a lot of time to finish this technical documentation page because of my upcoming midterm exam. Still, hopefully, I will get a chance to code every day. 
+
