@@ -488,3 +488,8 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Thoughts**:I feel tired today because I get a lack of sleep earlier. Fortunately, I finished styling every code on my page, and I think it will take a lot of time to finish this technical documentation page because of my upcoming midterm exam. Still, hopefully, I will get a chance to code every day. 
 
+### Day 79: April 23, 2021 | Friday
+
+**Today's Progress**: Now styling my technical documentation page for the responsive web design project in freecodecamp.org  
+
+**Thoughts**: I haven't code yesterday as I have assignments to do, and the midterm exam is finally approaching next week. And I need to finish my school works first to maintain my scholarship, but I will give some time to practice programming and web development. 
