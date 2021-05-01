@@ -500,8 +500,14 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Thoughts**: I feel tired and sleepy this day because of our midterm exams and assignments that we need to pass this term. But I hope, I can finish my documentation page by tomorrow. 
 
-### Day 81: April 28, 2021 | Thusrday
+### Day 81: April 28, 2021 | Thursday 
 
 **Today's Progress**: Finally Finished by technical documentation page in freecodecamp.org 
 
 **Thoughts**: I'm tired today because I think I'm supposed to sleep in the afternoon where I feel sleepy at that moment and ended up installing and playing video games on pc. But thanks to God I finished my documentation today. And I based some of the stylings in the example by the freecodecamp.org on their technical documentation as I don't right now how to perform other kinds of stuff like some positioning. 
+
+### Day 82: May 1, 2021 | Saturday 
+
+**Today's Progress**: Pushed my technical documentation page in Github and started to code the structure of my Portfolio webpage for the responsive web desgin project in freecodecamp.org 
+
+**Thoughts**: Just pushed my technical documentation page in my Github repo and Starting to code the HTML structure of my Portfolio webpage, and I hope that I can finish this project this week or in a month. Because I am one step further in getting the responsive web design certificate. 
