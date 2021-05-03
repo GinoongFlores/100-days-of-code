@@ -511,3 +511,8 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 **Today's Progress**: Pushed my technical documentation page in Github and started to code the structure of my Portfolio webpage for the responsive web desgin project in freecodecamp.org 
 
 **Thoughts**: Just pushed my technical documentation page in my Github repo and Starting to code the HTML structure of my Portfolio webpage, and I hope that I can finish this project this week or in a month. Because I am one step further in getting the responsive web design certificate. 
+
+### Day 83: May 3, 2021 | Monday 
+
+**Today's Progress**: Creating HTML structure of my portfolio webpage and I created a typing effect in Javascript to use in my portfolio
+**Thoughts**: I've been struggling to arrange or center the elements of my page. And I know there is an example from freecodecam.org but I just want to create this page on my own. And if I can't figure out some things, maybe I can use some codes in the examples and by searching it on the internet. 
