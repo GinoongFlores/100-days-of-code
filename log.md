@@ -516,3 +516,9 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Today's Progress**: Creating HTML structure of my portfolio webpage and I created a typing effect in Javascript to use in my portfolio
 **Thoughts**: I've been struggling to arrange or center the elements of my page. And I know there is an example from freecodecam.org but I just want to create this page on my own. And if I can't figure out some things, maybe I can use some codes in the examples and by searching it on the internet. 
+
+
+### Day 84: May 4, 2021 | Tuesday  
+
+**Today's Progress**: Still Styling my portfolio webpage today 
+**Thoughts**:The struggle is real when I can't even try to create my own portfolio webpage based on the example. That is why, I will try to get some code in the example of a portfolio webpage in freecodecamp.org, and I will understand it and implement it to my code. 
