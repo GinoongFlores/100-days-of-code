@@ -529,6 +529,11 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 ### Day 86: May 6, 2021 | Thursday
 
-**Today's Progress**: Added a contact section and footer in my portfolio webpage 
+**Today's Progress**: Added a contact section and footer of my portfolio webpage 
 **Thoughts**:  I copy the layout from the example of freecodecamp.org because I think it's just a simple portfolio but I'm going to make it a bit elegant. 
+
+### Day 87: May 7, 2021 | Friday 
+
+**Today's Progress**: Styling the contact section and the footer of my portfolio webpage 
+**Thoughts**: Feel tired today because of a lack of sleep again. I wish to continue more this evening but my body wanted to sleep and I think, I will continue to finish the styles of the contact section and the footer
 
