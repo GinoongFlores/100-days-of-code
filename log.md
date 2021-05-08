@@ -537,3 +537,9 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 **Today's Progress**: Styling the contact section and the footer of my portfolio webpage 
 **Thoughts**: Feel tired today because of a lack of sleep again. I wish to continue more this evening but my body wanted to sleep and I think, I will continue to finish the styles of the contact section and the footer
 
+### Day 88: May 7, 2021 | Saturday  
+
+**Today's Progress**: Fixing some arrangements issues on the contact section and the footer of my portfolio webpage 
+**Thoughts**: Today, I'm fixing some arrangements issues and I hope by tomorrow I will add the media queries. 
+
+
