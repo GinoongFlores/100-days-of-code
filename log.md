@@ -537,9 +537,14 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 **Today's Progress**: Styling the contact section and the footer of my portfolio webpage 
 **Thoughts**: Feel tired today because of a lack of sleep again. I wish to continue more this evening but my body wanted to sleep and I think, I will continue to finish the styles of the contact section and the footer
 
-### Day 88: May 7, 2021 | Saturday  
+### Day 88: May 8, 2021 | Saturday  
 
 **Today's Progress**: Fixing some arrangements issues on the contact section and the footer of my portfolio webpage 
 **Thoughts**: Today, I'm fixing some arrangements issues and I hope by tomorrow I will add the media queries. 
+
+### Day 89: May 10, 2021 | Monday   
+
+**Today's Progress**: Added Typing effect and add more projects on my portfolio webpage
+**Thoughts**: I tried to add typing effect in the work section but suddenly my typing effect in the home section stops if I use two typing effects in a js file. So, I will stick to the typing effect on the home section rather than in the work section, and also not overuse it. But I hope in the future I will be able to know what happens so I can fix it. 
 
 
