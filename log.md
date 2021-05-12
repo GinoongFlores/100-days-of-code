@@ -547,12 +547,12 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 **Today's Progress**: Added Typing effect and add more projects on my portfolio webpage
 **Thoughts**: I tried to add typing effect in the work section but suddenly my typing effect in the home section stops if I use two typing effects in a js file. So, I will stick to the typing effect on the home section rather than in the work section, and also not overuse it. But I hope in the future I will be able to know what happens so I can fix it. 
 
-### Day 90: May 10, 2021 | Tuesday    
+### Day 90: May 11, 2021 | Tuesday    
 
 **Today's Progress**: Finished styling and added media queries on my portfolio webpage 
 **Thoughts**: I think I'm okay in the styles of every section of my page that is why I started to add the media queries to make my portfolio webpage responsive. And right now I used em as media queries alike on the example, and I just recall how to convert em/rem to px and vice versa. 
 
-### Day 91: May 11, 2021 | Wednesday 
+### Day 91: May 12, 2021 | Wednesday 
 
 **Today's Progress**: Still working on my portfolio webpage media queries
 **Thoughts**: Feel tired today because of lack of sleep again and also of school works. But I just to keep going to finish my 1st 100DaysOfCode Challenge and hopefully to get my certificate from the responsive web design course in  freecodecamp.org 
