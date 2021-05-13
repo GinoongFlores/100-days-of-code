@@ -557,4 +557,8 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 **Today's Progress**: Still working on my portfolio webpage media queries
 **Thoughts**: Feel tired today because of lack of sleep again and also of school works. But I just to keep going to finish my 1st 100DaysOfCode Challenge and hopefully to get my certificate from the responsive web design course in  freecodecamp.org 
 
+### Day 92: May 13, 2021 | Thursday 
+
+**Today's Progress**: I've been working on our group website for the submission in the Reading in the Philippine History 
+**Thoughts**: The website we created was a free bootstrap template and we revised it to be our website in our subject. The website is great with the most notable feature of responsiveness. 
 
