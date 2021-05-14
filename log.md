@@ -562,3 +562,7 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 **Today's Progress**: I've been working on our group website for the submission in the Reading in the Philippine History 
 **Thoughts**: The website we created was a free bootstrap template and we revised it to be our website in our subject. The website is great with the most notable feature of responsiveness. 
 
+### Day 93: May 14, 2021 | Friday 
+
+**Today's Progress**: Helped my friend koyk2 in fixing his code in Savings Account program in Java  
+**Thoughts**: It was a big day today, I work on my school assignments and help my friend in fixing his program. 
