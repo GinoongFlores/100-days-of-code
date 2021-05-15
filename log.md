@@ -566,3 +566,8 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Today's Progress**: Helped my friend koyk2 in fixing his code in Savings Account program in Java  
 **Thoughts**: It was a big day today, I work on my school assignments and help my friend in fixing his program. 
+
+### Day 94: May 15, 2021 | Saturday 
+
+**Today's Progress**: Added more media queries to my porfolio webpage and tried to add a show all button. 
+**Thoughts**: Today,  Today, I continue to add more media queries to my site and added a show all button just like in the example. But the alignment doesn't go well even, I used some code on example so by tomorrow I'm going to try it again to see what I've got. 
