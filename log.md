@@ -571,3 +571,8 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Today's Progress**: Added more media queries to my porfolio webpage and tried to add a show all button. 
 **Thoughts**: Today,  Today, I continue to add more media queries to my site and added a show all button just like in the example. But the alignment doesn't go well even, I used some code on example so by tomorrow I'm going to try it again to see what I've got. 
+
+### Day 95: May 16, 2021 | Sunday  
+
+**Today's Progress**: Finished my portfolio webpage and earned my certificate from freecodecamp.org which is the responsive web design certification. 
+**Thoughts**: It took months to finised this course and I'm happy for the result. Even sometimes I feel tired to do some activities in this course but I just keep going in the next days whenver I feel comfortable. Because I realize that I don't need to rush things and everthing will fall into the right place. And I taught myself that I'm going to love this thing because this will be my source of income someday and no matter what will happen learning to code must never stops. 
