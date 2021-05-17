@@ -576,3 +576,8 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Today's Progress**: Finished my portfolio webpage and earned my certificate from freecodecamp.org which is the responsive web design certification. 
 **Thoughts**: It took months to finised this course and I'm happy for the result. Even sometimes I feel tired to do some activities in this course but I just keep going in the next days whenver I feel comfortable. Because I realize that I don't need to rush things and everthing will fall into the right place. And I taught myself that I'm going to love this thing because this will be my source of income someday and no matter what will happen learning to code must never stops. 
+
+### Day 96: May 17, 2021 | Monday 
+
+**Today's Progress**: Learned git commands in terms of forking a reposityr in my other Github account and created a pull request and merged it. 
+**Thoughts**: Today, I finally learned to forked and create a pull request and finally merged it to my other Github account. Because before I'm trying to figure out how to merged without conflicts but today I'm happy that I'm finally continuing learning it 
