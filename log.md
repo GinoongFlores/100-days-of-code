@@ -581,3 +581,8 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Today's Progress**: Learned git commands in terms of forking a reposityr in my other Github account and created a pull request and merged it. 
 **Thoughts**: Today, I finally learned to forked and create a pull request and finally merged it to my other Github account. Because before I'm trying to figure out how to merged without conflicts but today I'm happy that I'm finally continuing learning it 
+
+### Day 97: May 18, 2021 | Tuesday 
+
+**Today's Progress**: Learned Java OOP concepts for tutoring the Grade 11 nocturnals members 
+**Thoughts**: Today, I reminisced what I learned in my seniors years bach then, and tomorrow I will practice coding the four concepts of Java OOP.
