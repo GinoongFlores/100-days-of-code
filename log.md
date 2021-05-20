@@ -586,3 +586,13 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Today's Progress**: Learned Java OOP concepts for tutoring the Grade 11 nocturnals members 
 **Thoughts**: Today, I reminisced what I learned in my seniors years bach then, and tomorrow I will practice coding the four concepts of Java OOP.
+
+### Day 98: May 19, 2021 | Wednesday  
+
+**Today's Progress**: Learning Encapsulation in Java OOP 
+**Thoughts**: On this day, I learned how to make private variables, and learned how the getters and setters work. 
+
+### Day 99: May 20, 2021 | Thursday  
+
+**Today's Progress**: Learning Inheritance in Java OOP 
+**Thoughts**: Halfway through learning inheritance in Java, Today I'm able to create the main java file and its subclass that extends to its classes.  
