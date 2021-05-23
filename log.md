@@ -596,3 +596,9 @@ https://github.com/GinoongFlores/CSS-Flexbox-And-Grid
 
 **Today's Progress**: Learning Inheritance in Java OOP 
 **Thoughts**: Halfway through learning inheritance in Java, Today I'm able to create the main java file and its subclass that extends to its classes.  
+
+### Day 100: May 23, 2021 | Sunday   
+
+**Today's Progress**: Finally learned the four concepts of Java so that I can understand what I'm teaching to the senior high level in STI College CDO. And help my old-time high school classmate in creating a structured program in C programming. 
+
+And today, I finished the 100DaysOfCode challenge it was a great journey even sometimes I feel tired and didn't get to code sometimes but I keep on going every single day when I feel like I'm motivated. And I want to thank myself for not giving up and still being resilient no matter what happens because my motivation and determination to make websites and code is getting stronger every time I learn new concepts and ideas in programming and tech. 
